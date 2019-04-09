@@ -9,5 +9,15 @@ namespace Task01.Classes
         public int Fuel { get; set; }
         public bool HaveKeys { get; set; }
         public bool IsDrivable { get; set; }
+
+        public Car(string brand, string model, string color, int fuel, bool keys)
+        {
+            this.Brand = brand;
+            this.Model = model;
+            this.Color = color;
+            this.Fuel = fuel;
+            this.HaveKeys = keys;
+            this.IsDrivable = false;
+        }
     }
 }
