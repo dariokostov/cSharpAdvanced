@@ -4,7 +4,7 @@ namespace Exercise01.Classes
     public class Medium
     {
         public delegate void NewsHandler(object obj, News breakingNews);
-        public NewsHandler BreakingNewsHandler;
+        public event NewsHandler BreakingNewsHandler;
 
         public void SendBreakingNews(string headline, string content, DateTime dateTimeNow)
         {
