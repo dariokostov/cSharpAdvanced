@@ -41,28 +41,51 @@ namespace BreakingNews
 
     //Task 02
 
-    //class GenericClass<T>
+    public abstract class GenericClass<T>
+    {
+        protected GenericClass(T parametar)
+        {
+
+        }
+
+        public List<T> Array { get; set; }
+        public int Count { get; set; }
+
+        public abstract void Add(T e);
+
+        public abstract T Remove(int index);
+
+        public abstract T GetElementByIndex(int index);
+
+    }
+
+    //public class StringGenericClass : GenericClass<string>
     //{
-    //    public GenericClass(T parametar)
-    //    {
-
-    //    }
-    //    private T Array { get; set; }
-    //    public int Count { get; set; }
-
-    //    public void Add(T element)
+    //    public StringGenericClass(string parametar) : base (parametar)
     //    {
 
     //    }
 
-    //    public T Remove(int index)
+    //    public override void Add(string e)
     //    {
-
-    //    }
-    //    public T GetElementByIndex(int index)
-    //    {
-
+    //        Array.Add(e);
     //    }
 
+    //    public override string Remove(int index)
+    //    {
+    //        Array.RemoveAt(index);
+
+    //        foreach (var item in Array)
+    //        {
+    //        }
+    //        return $"Remove: {Array}";
+    //    }
+
+
+    //    public override string GetElementByIndex(int index)
+    //    {
+    //        return "";
+    //    }
     //}
+
 }
