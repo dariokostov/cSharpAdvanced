@@ -1,0 +1,30 @@
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/bin/Debug/eShop.exe.config
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/bin/Debug/eShop.exe
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/bin/Debug/eShop.pdb
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/bin/Debug/Library.dll
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/bin/Debug/Library.pdb
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/obj/Debug/eShop.csprojAssemblyReference.cache
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/obj/Debug/eShop.csproj.CoreCompileInputs.cache
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/obj/Debug/eShop.csproj.CopyComplete
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/obj/Debug/eShop.exe
+D:/Downloads/SEDC/vezbanje so kolegi/C#/07.05.2019/eShop/eShop/obj/Debug/eShop.pdb
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/bin/Debug/eShop.exe.config
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/bin/Debug/eShop.exe
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/bin/Debug/eShop.pdb
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/bin/Debug/Library.dll
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/bin/Debug/Library.pdb
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/obj/Debug/eShop.csprojAssemblyReference.cache
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/obj/Debug/eShop.csproj.CoreCompileInputs.cache
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/obj/Debug/eShop.csproj.CopyComplete
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/obj/Debug/eShop.exe
+C:/Users/Martin Petrovski/Desktop/dwd/eShop/eShop/obj/Debug/eShop.pdb
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Debug/eShop.exe.config
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Debug/eShop.exe
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Debug/eShop.pdb
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Debug/Library.dll
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Debug/Library.pdb
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Debug/eShop.csprojAssemblyReference.cache
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Debug/eShop.csproj.CoreCompileInputs.cache
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Debug/eShop.csproj.CopyComplete
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Debug/eShop.exe
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Debug/eShop.pdb

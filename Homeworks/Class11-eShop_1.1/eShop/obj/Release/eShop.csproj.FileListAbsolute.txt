@@ -1,0 +1,10 @@
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Release/eShop.exe.config
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Release/eShop.exe
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Release/eShop.pdb
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Release/Library.dll
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/bin/Release/Library.pdb
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Release/eShop.csprojAssemblyReference.cache
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Release/eShop.csproj.CoreCompileInputs.cache
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Release/eShop.csproj.CopyComplete
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Release/eShop.exe
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/eShop/obj/Release/eShop.pdb

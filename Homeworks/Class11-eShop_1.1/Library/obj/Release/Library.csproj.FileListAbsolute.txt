@@ -1,0 +1,5 @@
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/Library/bin/Release/Library.dll
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/Library/bin/Release/Library.pdb
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/Library/obj/Release/Library.csproj.CoreCompileInputs.cache
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/Library/obj/Release/Library.dll
+/Users/dariokostov/Documents/GitHub/cSharpAdvanced/Homeworks/Class11-eShop/Library/obj/Release/Library.pdb

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{937EA489-838B-4A68-A341-2F3FA0E29709}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="eShop/Program.cs">
+    <Files>
+      <File FileName="eShop/Program.cs" Line="3" Column="24" />
+      <File FileName="Library/Classes/IItem.cs" Line="1" Column="1" />
+      <File FileName="Library/Classes/Methods.cs" Line="31" Column="29" />
+      <File FileName="Library/Classes/Order.cs" Line="1" Column="1" />
+      <File FileName="Library/Classes/Product.cs" Line="1" Column="1" />
+      <File FileName="Library/Classes/User.cs" Line="1" Column="1" />
+      <File FileName="Library/Classes/Vendor.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eShop" expanded="True">
+            <Node name="eShop" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Library" expanded="True">
+              <Node name="Classes" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.eShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
